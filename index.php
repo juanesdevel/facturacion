@@ -47,7 +47,7 @@
     <div class="row">
         <div class="col-12">
            
-            <a href="vistas/productos.php" class="btn btn-primary sombra">Administrar Productos</a>
+            <a href="productos.php" class="btn btn-primary sombra">Administrar Productos</a>
           
         </div>
     </div>
